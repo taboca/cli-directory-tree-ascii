@@ -1,0 +1,21 @@
+{
+  "name": "directory-tree-ascii",
+  "version": "1.0.8",
+  "description": "Lists a directory tree using filter and produces ascii art output to help documentation. ",
+  "main": "bin/index.js",
+  "bin": {
+    "daa": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcio (evangelist) Galli",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "deepdash": "^1.9.5",
+    "directory-tree": "^2.2.1",
+    "lodash": "^4.17.11",
+    "treeify": "^1.1.0"
+  }
+}
