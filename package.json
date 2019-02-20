@@ -1,6 +1,6 @@
 {
   "name": "directory-tree-ascii",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Lists a directory tree using filter and produces ascii art output to help documentation. ",
   "main": "bin/index.js",
   "bin": {
